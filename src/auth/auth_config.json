@@ -1,0 +1,6 @@
+{
+    "domain": "dev-1h1s5xqm.auth0.com",
+    "clientId": "OZYEEhvBeRcWm4ah4QEktvv3iISWaqSq",
+    "redirect_uri": "http://localhost:3000",
+    "audience": "https://shopify-challenge.herokuapp.com/v1/graphql"
+  }

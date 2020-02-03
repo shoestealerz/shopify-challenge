@@ -1,0 +1,57 @@
+body {
+  margin: 100px 0px;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #fafafa;
+}
+
+.top-padding {
+  padding-top: 10px;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+.Post {
+  background-color: #fff;
+  margin-bottom: 60px;
+  margin-left: 20%;
+  margin-right: 20%;
+}
+
+.Post-image-bg {
+  background-color: #efefef;
+}
+.Post-image img {
+  display: block;
+  width: 100%;
+  max-height: 450px;
+}
+
+.container {
+  width: 70%;
+}
+
+.profile-username {
+  font-weight: 900;
+  font-size: 18px;
+  padding-top: 10px;
+}
+
+.profile-logout {
+  margin-top: 4px;
+}
+
+.profile-post-image {
+  height: 250px;
+  width: 250px;
+}
+
+.whitespace {
+  white-space:pre; 
+}
